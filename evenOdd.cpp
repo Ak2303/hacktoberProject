@@ -6,9 +6,9 @@ int main()
   int n;
   cin>>n;
   if(n%2==0){
-  cout<<"n is odd"<<endl;
+  cout<<"n is even"<<endl;
   }else{
-   cout<<"n is even"<<endl;
+   cout<<"n is odd"<<endl;
   }
    return 0;
 }
